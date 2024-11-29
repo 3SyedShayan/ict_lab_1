@@ -1,7 +1,6 @@
 # ict_lab_1
-ICT Lab Task, Configuring Git
-Testing
-TEsting again
-new line
-shah
-Update Time
+<html>
+  <body>
+    <p> This is a useless ICT Project </p>
+  </body>
+</html>
